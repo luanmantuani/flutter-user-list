@@ -1,6 +1,15 @@
-# flutter_crud
+# User List with Flutter 🙍‍♀️🙍‍♂️📑
 
-A new Flutter project.
+A simple CRUD of users, [implemented](https://www.youtube.com/watch?v=ViahqKZzZ7Y&list=WL&index=2&ab_channel=Cod3rCursos) in the youtube channel [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ).
+
+<details>
+  <summary>Screenshots</summary>
+  <section>
+    <img src="./screenshots/home-screen.jpg" alt="home-screen" height="600px">
+    <img src="./screenshots/user-form-screen.jpg" alt="user-form-screen" height="600px">
+    <img src="./screenshots/delete-user-dialog.jpg" alt="delete-user-dialog" height="600px">
+  </section>
+</details>
 
 ## Getting Started
 
